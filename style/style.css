@@ -1,0 +1,114 @@
+.black {
+  word-spacing: 1em;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: white;
+}
+
+.h1 {
+  text-align: center;
+  font-size: xx-large;
+}
+
+.flower {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 215px;
+}
+
+.coffee {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 222px;
+  width: 185x;
+}
+
+.rise {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 220px;
+  width: 260px;
+}
+
+.dedication {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 219px;
+}
+
+.aim {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 153px;
+}
+
+.quote {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 242px;
+}
+
+.box1 {
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  justify-content: center;
+  margin: -24px;
+  /* padding: 20px; */
+  text-align: center;
+}
+
+.box2 {
+  display: flex;
+  text-align: center;
+  flex-direction: row;
+  width: auto;
+  justify-content: center;
+  margin: -28px;
+  /* padding-bottom: 20px; */
+
+}
+
+.border {
+  justify-content: center;
+  text-align: center;
+  width: auto;
+  height: auto;
+  padding: 30px;
+  background-color: rgb(151, 185, 214);
+}
+
+.width {
+  width: 1330px;
+  height: 390px;
+}
+
+.page {
+  margin: 0px;
+  padding: 50px;
+  border: 70px solid #4377d8;
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.para {
+  margin-left: 105px;
+  margin-right: 105px;
+}
